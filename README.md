@@ -1,7 +1,7 @@
-![](https://raw.githubusercontent.com/Alsa2/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Alsa2/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Alsa2/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Alsa2/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/yuxuantaoisak/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/yuxuantaoisak/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/yuxuantaoisak/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/yuxuantaoisak/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 - 👋 Hi, I’m @yuxuantaoisak
