@@ -7,7 +7,7 @@
 - 👋 Hi, I’m @yuxuantaoisak
 - 📫 2025.yuxuan.tao@uwcisak.jp
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ?
+- ⚡ Fun fact: loves coding
 
 <!---
 yuxuantaoisak/yuxuantaoisak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
