@@ -4,10 +4,11 @@
 ![](https://raw.githubusercontent.com/yuxuantaoisak/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
-- 👋 Hi, I’m @yuxuantaoisak
-- 📫 2025.yuxuan.tao@uwcisak.jp
+- 👋 Hi, I’m @yuxuantao12
+- 📫 yuxuantao@ufl.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: loves coding
+- Open to collabs
 
 <!---
 yuxuantaoisak/yuxuantaoisak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
